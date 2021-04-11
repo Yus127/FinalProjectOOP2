@@ -1,0 +1,20 @@
+Titanic
+195
+Romantic
+2
+Moana
+107
+Musical
+4
+Avengers: Endgame
+181
+Superheroes
+5
+The theory of everything 
+114
+Biography
+3
+Treasure planet
+81
+Adventure
+3

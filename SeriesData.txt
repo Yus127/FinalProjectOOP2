@@ -1,0 +1,129 @@
+Typewriter
+Horror
+5
+Four Kids and a Dog
+51
+3
+Operation School Bell
+54
+3
+The Ghost of Sultanpore
+43
+3
+The Rise of the Fakeer
+48
+3
+The Night of the Blood Moon
+52
+3
+Chernobyl
+Drama
+5
+1:23:45
+60
+5
+Please Remain Calm
+68
+5
+Open Wide, O Earth
+70
+5
+The Happiness of All Mankind
+64
+5
+Víchnaya Pámyat
+72
+5
+Dark
+Thriller
+10
+Secrets
+51
+4
+Lies
+44
+4
+Past and Present
+45
+4
+Double Lives
+47
+4
+Truths
+45
+4
+Sic Mundus Creatus Est
+51
+4
+Crossroads
+51
+4
+As You Sow, so You Shall Reap
+50
+4
+Everything Is Now
+55
+4
+Alpha and Omega
+57
+4
+The Umbrella Academy
+Drama
+10
+We Only See Each Other at Weddings and Funerals
+59
+4
+Run Boy Run
+57
+4
+Extra Ordinary
+56
+4
+Man on the Moon
+57
+4
+Number Five
+60
+4
+The Day That Wasn't
+58
+4
+The Day That Was
+56
+4
+I Heard a Rumor
+52
+4
+Changes
+45
+4
+The White Violin
+47
+4
+Le Bazar de la Charite
+Historical
+8
+Episode 1
+47
+3
+Episode 2
+55
+3
+Episode 3
+48
+3
+Episode 4
+49
+3
+Episode 5
+52
+3
+Episode 6
+48
+3
+Episode 7
+47
+3
+Episode 8
+54
+3
